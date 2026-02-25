@@ -65,6 +65,14 @@ yarn-error.log*
 *.temp
 .cache/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code
+.claude/
+
 # Build outputs (if any in future)
 dist/
 build/
